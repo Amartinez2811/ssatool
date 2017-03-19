@@ -1,0 +1,57 @@
+body {
+    
+    color: white;
+    background: #232323;
+    
+}
+
+
+
+h1 {
+    
+    text-align: center;
+    
+}
+
+.compSection {
+    
+   text-align: center;
+}
+
+
+#bicSection label {
+    
+    display: block;
+}
+
+label {
+    
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+}
+
+#works {
+    
+    margin: 20px auto;
+}
+
+
+#outcome {
+    
+    margin: 40px auto;
+    color: #232323;
+    display: none;
+
+}
+
+.addBorder {
+    
+    border: 3px steelblue solid;
+    border-radius: 5px;
+    height: 150px;
+    width: 30%;
+    padding: 20px;
+    background: #E8E5E8;
+    
+}
